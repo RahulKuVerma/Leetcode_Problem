@@ -32,10 +32,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1636-sort-array-by-increasing-frequency](https://github.com/RahulKuVerma/Leetcode_Problem/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/RahulKuVerma/Leetcode_Problem/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1636-sort-array-by-increasing-frequency](https://github.com/RahulKuVerma/Leetcode_Problem/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/RahulKuVerma/Leetcode_Problem/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,4 +50,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RahulKuVerma/Leetcode_Problem/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/RahulKuVerma/Leetcode_Problem/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 <!---LeetCode Topics End-->
